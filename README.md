@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtank10&label=Profile%20views&color=0e75b6&style=flat" alt="mtank10" /> </p>
 
-- 🔭 I’m currently working on **Spring Boot Project**
+- 🔭 I’m currently working on **Mern Stack Project**
 
-- 🌱 I’m currently learning **Spring Boot ,Devops Tools**
+- 🌱 I’m currently learning **React NodeJs TypeScript ,Devops Tools**
 
-- 💬 Ask me about **Java,Spring Boot, Software Developer**
+- 💬 Ask me about **Mern Stack, Software Developer**
 
 - 📫 How to reach me **rajshivam691@gmail.com**
 
