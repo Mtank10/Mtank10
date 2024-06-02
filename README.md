@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtank10&label=Profile%20views&color=0e75b6&style=flat" alt="mtank10" /> </p>
 
-- 🔭 I’m currently working on **Mern Stack Project**
+- 🔭 I’m currently working on **/Freelencing Mern Stack and Nextjs Projects**
 
-- 🌱 I’m currently learning **React NodeJs TypeScript ,Devops Tools**
+- 🌱 I’m currently learning **React NodeJs TypeScript ,Devops Tools NextJs**
 
-- 💬 Ask me about **Mern Stack, Software Developer**
+- 💬 Ask me about **Mern Stack, Software Developer , NextJs**
 
 - 📫 How to reach me **rajshivam691@gmail.com**
 
